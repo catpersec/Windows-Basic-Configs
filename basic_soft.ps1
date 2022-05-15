@@ -23,6 +23,7 @@ choco install PDFXchangeEditor --force
 choco install 7zip.install --force
 choco install Bitwarden --force
 choco install windirstat --force
+choco install powertoys --force
 
 #resources
 #https://www.reddit.com/r/chocolatey/comments/esqqfz/is_it_possible_to_install_multiple_packages_at/
