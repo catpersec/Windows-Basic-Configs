@@ -42,9 +42,6 @@ else {
     Read-Host
 }
 
-
-<<<<<<< HEAD
-
 Write-Host "Manual Install Docker Desktop"
 [system.Diagnostics.Process]::Start("msedge","https://docs.docker.com/desktop/windows/install/")
 Read-Host -Prompt "Press enter to continue"
